@@ -1,0 +1,105 @@
+﻿State,Region code,Region label,Commodity description,  Estimate  ,  Number of agricultural businesses  
+NSW AND ACT,101,Central Tablelands,Area of holding (ha) (a)," 1,669,441 "," 2,230 "
+NSW AND ACT,101,Central Tablelands,Land use - Land mainly used for agricultural production - Total area (ha)," 1,549,398 "," 2,118 "
+NSW AND ACT,102,Central West,Area of holding (ha) (a)," 7,298,851 "," 3,648 "
+NSW AND ACT,102,Central West,Land use - Land mainly used for agricultural production - Total area (ha)," 6,743,163 "," 3,527 "
+NSW AND ACT,103,Greater Sydney,Area of holding (ha) (a)," 70,878 "," 1,315 "
+NSW AND ACT,103,Greater Sydney,Land use - Land mainly used for agricultural production - Total area (ha)," 61,726 "," 1,239 "
+NSW AND ACT,104,Hunter,Area of holding (ha) (a)," 1,177,500 "," 1,666 "
+NSW AND ACT,104,Hunter,Land use - Land mainly used for agricultural production - Total area (ha)," 1,066,521 "," 1,582 "
+NSW AND ACT,105,Murray,Area of holding (ha) (a)," 3,248,241 "," 2,241 "
+NSW AND ACT,105,Murray,Land use - Land mainly used for agricultural production - Total area (ha)," 3,022,187 "," 2,194 "
+NSW AND ACT,106,North Coast,Area of holding (ha) (a)," 731,743 "," 2,794 "
+NSW AND ACT,106,North Coast,Land use - Land mainly used for agricultural production - Total area (ha)," 645,813 "," 2,684 "
+NSW AND ACT,108,North West NSW,Area of holding (ha) (a)," 6,229,510 "," 2,918 "
+NSW AND ACT,108,North West NSW,Land use - Land mainly used for agricultural production - Total area (ha)," 5,763,825 "," 2,819 "
+NSW AND ACT,109,Northern Tablelands,Area of holding (ha) (a)," 1,795,059 "," 1,777 "
+NSW AND ACT,109,Northern Tablelands,Land use - Land mainly used for agricultural production - Total area (ha)," 1,627,359 "," 1,695 "
+NSW AND ACT,110801,Riverina and ACT,Area of holding (ha) (a)," 5,980,840 "," 4,189 "
+NSW AND ACT,110801,Riverina and ACT,Land use - Land mainly used for agricultural production - Total area (ha)," 5,554,156 "," 4,048 "
+NSW AND ACT,111,South East NSW,Area of holding (ha) (a)," 1,730,235 "," 2,447 "
+NSW AND ACT,111,South East NSW,Land use - Land mainly used for agricultural production - Total area (ha)," 1,588,482 "," 2,347 "
+NSW AND ACT,112,Western,Area of holding (ha) (a)," 25,506,574 "," 1,044 "
+NSW AND ACT,112,Western,Land use - Land mainly used for agricultural production - Total area (ha)," 24,034,799 "," 1,024 "
+VIC,201,Corangamite,Area of holding (ha) (a)," 789,056 "," 2,063 "
+VIC,201,Corangamite,Land use - Land mainly used for agricultural production - Total area (ha)," 705,488 "," 1,905 "
+VIC,202,East Gippsland,Area of holding (ha) (a)," 250,394 ", 568 
+VIC,202,East Gippsland,Land use - Land mainly used for agricultural production - Total area (ha)," 213,972 ", 505 
+VIC,203,Glenelg Hopkins,Area of holding (ha) (a)," 1,538,568 "," 3,259 "
+VIC,203,Glenelg Hopkins,Land use - Land mainly used for agricultural production - Total area (ha)," 1,466,865 "," 3,199 "
+VIC,204,Goulburn Broken,Area of holding (ha) (a)," 1,074,790 "," 3,205 "
+VIC,204,Goulburn Broken,Land use - Land mainly used for agricultural production - Total area (ha)," 974,854 "," 3,100 "
+VIC,205,Mallee,Area of holding (ha) (a)," 2,170,778 "," 1,663 "
+VIC,205,Mallee,Land use - Land mainly used for agricultural production - Total area (ha)," 2,018,571 "," 1,623 "
+VIC,206,North Central,Area of holding (ha) (a)," 1,969,349 "," 3,011 "
+VIC,206,North Central,Land use - Land mainly used for agricultural production - Total area (ha)," 1,831,671 "," 2,909 "
+VIC,207,North East,Area of holding (ha) (a)," 656,572 "," 1,553 "
+VIC,207,North East,Land use - Land mainly used for agricultural production - Total area (ha)," 580,193 "," 1,471 "
+VIC,208,Port Phillip and Western Port,Area of holding (ha) (a)," 275,515 "," 2,417 "
+VIC,208,Port Phillip and Western Port,Land use - Land mainly used for agricultural production - Total area (ha)," 230,771 "," 2,269 "
+VIC,209,West Gippsland,Area of holding (ha) (a)," 580,642 "," 2,634 "
+VIC,209,West Gippsland,Land use - Land mainly used for agricultural production - Total area (ha)," 518,580 "," 2,583 "
+VIC,210,Wimmera,Area of holding (ha) (a)," 1,546,818 "," 1,563 "
+VIC,210,Wimmera,Land use - Land mainly used for agricultural production - Total area (ha)," 1,419,603 "," 1,514 "
+QLD,301,Burnett Mary,Area of holding (ha) (a)," 3,353,011 "," 3,037 "
+QLD,301,Burnett Mary,Land use - Land mainly used for agricultural production - Total area (ha)," 3,116,897 "," 2,904 "
+QLD,302,Cape York,Area of holding (ha) (a)," 2,561,605 ", 40 
+QLD,302,Cape York,Land use - Land mainly used for agricultural production - Total area (ha)," 2,452,401 ", 38 
+QLD,303,Condamine,Area of holding (ha) (a)," 1,599,722 "," 2,136 "
+QLD,303,Condamine,Land use - Land mainly used for agricultural production - Total area (ha)," 1,475,082 "," 2,071 "
+QLD,304,Cooperative Management Area,Area of holding (ha) (a)," 1,610,830 ", 24 
+QLD,304,Cooperative Management Area,Land use - Land mainly used for agricultural production - Total area (ha)," 1,593,127 ", 24 
+QLD,305,Desert Channels,Area of holding (ha) (a)," 44,150,071 ", 653 
+QLD,305,Desert Channels,Land use - Land mainly used for agricultural production - Total area (ha)," 42,486,619 ", 638 
+QLD,306,Fitzroy Basin,Area of holding (ha) (a)," 14,987,168 "," 2,789 "
+QLD,306,Fitzroy Basin,Land use - Land mainly used for agricultural production - Total area (ha)," 14,141,585 "," 2,721 "
+QLD,307,North Queensland Dry Tropics,Area of holding (ha) (a)," 12,545,909 "," 1,309 "
+QLD,307,North Queensland Dry Tropics,Land use - Land mainly used for agricultural production - Total area (ha)," 12,268,553 "," 1,275 "
+QLD,308,Northern Gulf,Area of holding (ha) (a)," 12,503,257 ", 331 
+QLD,308,Northern Gulf,Land use - Land mainly used for agricultural production - Total area (ha)," 11,699,281 ", 325 
+QLD,309,Queensland Murray Darling Basin,Area of holding (ha) (a)," 9,029,457 "," 1,964 "
+QLD,309,Queensland Murray Darling Basin,Land use - Land mainly used for agricultural production - Total area (ha)," 8,483,660 "," 1,907 "
+QLD,310,Reef Catchments,Area of holding (ha) (a)," 706,847 "," 1,268 "
+QLD,310,Reef Catchments,Land use - Land mainly used for agricultural production - Total area (ha)," 611,391 "," 1,228 "
+QLD,311,South East Queensland,Area of holding (ha) (a)," 988,949 "," 2,276 "
+QLD,311,South East Queensland,Land use - Land mainly used for agricultural production - Total area (ha)," 968,826 "," 2,150 "
+QLD,312,South West Queensland,Area of holding (ha) (a)," 16,608,709 ", 508 
+QLD,312,South West Queensland,Land use - Land mainly used for agricultural production - Total area (ha)," 16,367,054 ", 508 
+QLD,313,Southern Gulf,Area of holding (ha) (a)," 16,580,765 ", 330 
+QLD,313,Southern Gulf,Land use - Land mainly used for agricultural production - Total area (ha)," 16,432,765 ", 329 
+QLD,314,Terrain NRM,Area of holding (ha) (a)," 728,289 "," 1,850 "
+QLD,314,Terrain NRM,Land use - Land mainly used for agricultural production - Total area (ha)," 674,599 "," 1,800 "
+SA,401,Adelaide and Mount Lofty Ranges,Area of holding (ha) (a)," 313,183 "," 1,691 "
+SA,401,Adelaide and Mount Lofty Ranges,Land use - Land mainly used for agricultural production - Total area (ha)," 274,557 "," 1,648 "
+SA,402406,Alinytjara Wilurara and South Australian Arid Lands,Area of holding (ha) (a)," 36,606,933 ", 143 
+SA,402406,Alinytjara Wilurara and South Australian Arid Lands,Land use - Land mainly used for agricultural production - Total area (ha)," 35,707,517 ", 142 
+SA,403,Eyre Peninsula,Area of holding (ha) (a)," 3,869,709 "," 1,085 "
+SA,403,Eyre Peninsula,Land use - Land mainly used for agricultural production - Total area (ha)," 3,361,645 "," 1,065 "
+SA,404,Kangaroo Island,Area of holding (ha) (a)," 167,523 ", 202 
+SA,404,Kangaroo Island,Land use - Land mainly used for agricultural production - Total area (ha)," 134,248 ", 195 
+SA,405,Northern and Yorke,Area of holding (ha) (a)," 3,251,043 "," 2,079 "
+SA,405,Northern and Yorke,Land use - Land mainly used for agricultural production - Total area (ha)," 3,090,665 "," 2,006 "
+SA,407,South Australian Murray Darling Basin,Area of holding (ha) (a)," 3,743,890 "," 2,434 "
+SA,407,South Australian Murray Darling Basin,Land use - Land mainly used for agricultural production - Total area (ha)," 3,371,335 "," 2,336 "
+SA,408,South East,Area of holding (ha) (a)," 1,768,172 "," 2,028 "
+SA,408,South East,Land use - Land mainly used for agricultural production - Total area (ha)," 1,614,806 "," 1,976 "
+WA,501,Northern Agricultural,Area of holding (ha) (a)," 4,119,565 "," 1,362 "
+WA,501,Northern Agricultural,Land use - Land mainly used for agricultural production - Total area (ha)," 3,518,668 "," 1,326 "
+WA,502,Peel-Harvey,Area of holding (ha) (a)," 490,950 ", 613 
+WA,502,Peel-Harvey,Land use - Land mainly used for agricultural production - Total area (ha)," 453,332 ", 583 
+WA,503,Perth,Area of holding (ha) (a)," 12,434 ", 388 
+WA,503,Perth,Land use - Land mainly used for agricultural production - Total area (ha)," 6,180 ", 349 
+WA,504,Rangelands,Area of holding (ha) (a)," 66,173,383 ", 433 
+WA,504,Rangelands,Land use - Land mainly used for agricultural production - Total area (ha)," 64,400,556 ", 423 
+WA,505,South Coast,Area of holding (ha) (a)," 3,320,572 "," 1,449 "
+WA,505,South Coast,Land use - Land mainly used for agricultural production - Total area (ha)," 2,776,892 "," 1,397 "
+WA,506,South West,Area of holding (ha) (a)," 1,961,749 "," 2,312 "
+WA,506,South West,Land use - Land mainly used for agricultural production - Total area (ha)," 1,652,284 "," 2,247 "
+WA,507,Wheatbelt,Area of holding (ha) (a)," 7,691,794 "," 2,317 "
+WA,507,Wheatbelt,Land use - Land mainly used for agricultural production - Total area (ha)," 6,801,924 "," 2,277 "
+TAS,601,Cradle Coast,Area of holding (ha) (a)," 270,336 ", 935 
+TAS,601,Cradle Coast,Land use - Land mainly used for agricultural production - Total area (ha)," 233,529 ", 918 
+TAS,602,North,Area of holding (ha) (a)," 686,790 ", 934 
+TAS,602,North,Land use - Land mainly used for agricultural production - Total area (ha)," 568,787 ", 915 
+TAS,603,South,Area of holding (ha) (a)," 523,161 ", 580 
+TAS,603,South,Land use - Land mainly used for agricultural production - Total area (ha)," 443,546 ", 548 
