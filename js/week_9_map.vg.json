@@ -1,35 +1,48 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Agricultrual Land Use",
+    "title": "Land Use for Agricultural Purposes",
     "width": 800,
     "height": 600,
-    "projection": {"type": "equirectangular"},
     "data": {
-        "url": "https://raw.githubusercontent.com/Sarah-Kaehne/Week9/main/NRMR_2016_AUST.topojson",
-        "format": {"type": "topojson", "feature": "NRMR_2016_AUST"}
+      "url": "https://raw.githubusercontent.com/Sarah-Kaehne/Week9/main/js/NRMR_2016_AUST.topojson",
+      "format": {
+            "type": "topojson",
+            "feature": "NRMR_2016_AUST"
+          }
     },
-    "transform": [
-        {
-            "lookup": "NRM_NAME16",
-            "from": {
-                "data": {
-                    "url": "https://raw.githubusercontent.com/Sarah-Kaehne/Week9/main/Land_Management_and_Farming_Simple.csv"
-                },
-                "key": "RegionLabel",
-                "fields": ["Active"]
-            }
+    "transform": [{
+        "lookup": "properties.NRM_NAME16",
+        "from": {
+          "data": {
+            "url": "https://raw.githubusercontent.com/Sarah-Kaehne/Week9/main/data/Land_Management_and_Farming_Simple.csv"
+          },
+          "key": "RegionLabel",
+          "fields": ["PercentageAgricultural"]
         }
+      },
+      {
+        "calculate": "datum.PercentageAgricultural * 100", "as": "Percentage Agricultural"}
     ],
-    "mark": {"type": "geoshape"},
+    "projection": {
+      "type": "equirectangular"
+    },
+    "mark": {
+      "type": "geoshape"
+      },
     "encoding": {
-        "color": {
-            "field": "Agricultual Density",
-            "type": "quantitative",
-            "scale": {"type": "log"}
-        },
-        "tooltip": [
-            {"field": "NRM_NAME16", "type": "nominal", "title": "RegionLabel"},
-            {"field": "Active", "type": "quantitative"}
-        ]
+      "color": {
+        "field": "Percentage Agricultural",
+        "type": "quantitative",
+        "scale": {
+          "type": "threshold",
+          "domain": [80, 82.5, 85, 87.5, 90, 92.5, 95, 97.5],
+          "range": ["#fdc998", "#fdb87b", "#fda55e", "#fc9244", "#f87f2c", "#f06b18","#e4580b","#d14904"]
+          }
+      },
+      "tooltip": [
+        {"field": "properties.NRM_NAME16", "type": "nominal", "title": "Region"},
+        {"field": "Percentage Agricultural", "type": "quantitative", "title": "% Agricultural Use"}
+      ]
     }
-}
+  
+  }
