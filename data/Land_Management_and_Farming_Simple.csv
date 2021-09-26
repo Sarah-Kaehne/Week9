@@ -1,0 +1,105 @@
+﻿State,RegionCode,RegionLabel,TotalArea,AgriculturalProductionArea,NumberAgBus
+NSW AND ACT,101,Central Tablelands,"1,669,441","1,549,398","2,230"
+NSW AND ACT,102,Central West,"7,298,851","6,743,163","3,648"
+NSW AND ACT,103,Greater Sydney,"70,878","61,726","1,315"
+NSW AND ACT,104,Hunter,"1,177,500","1,066,521","1,666"
+NSW AND ACT,105,Murray,"3,248,241","3,022,187","2,241"
+NSW AND ACT,106,North Coast,"731,743","645,813","2,794"
+NSW AND ACT,108,North West NSW,"6,229,510","5,763,825","2,918"
+NSW AND ACT,109,Northern Tablelands,"1,795,059","1,627,359","1,777"
+NSW AND ACT,110801,Riverina and ACT,"5,980,840","5,554,156","4,189"
+NSW AND ACT,111,South East NSW,"1,730,235","1,588,482","2,447"
+NSW AND ACT,112,Western,"25,506,574","24,034,799","1,044"
+VIC,201,Corangamite,"789,056","705,488","2,063"
+VIC,202,East Gippsland,"250,394","213,972",568
+VIC,203,Glenelg Hopkins,"1,538,568","1,466,865","3,259"
+VIC,204,Goulburn Broken,"1,074,790","974,854","3,205"
+VIC,205,Mallee,"2,170,778","2,018,571","1,663"
+VIC,206,North Central,"1,969,349","1,831,671","3,011"
+VIC,207,North East,"656,572","580,193","1,553"
+VIC,208,Port Phillip and Western Port,"275,515","230,771","2,417"
+VIC,209,West Gippsland,"580,642","518,580","2,634"
+VIC,210,Wimmera,"1,546,818","1,419,603","1,563"
+QLD,301,Burnett Mary,"3,353,011","3,116,897","3,037"
+QLD,302,Cape York,"2,561,605","2,452,401",40
+QLD,303,Condamine,"1,599,722","1,475,082","2,136"
+QLD,304,Cooperative Management Area,"1,610,830","1,593,127",24
+QLD,305,Desert Channels,"44,150,071","42,486,619",653
+QLD,306,Fitzroy Basin,"14,987,168","14,141,585","2,789"
+QLD,307,North Queensland Dry Tropics,"12,545,909","12,268,553","1,309"
+QLD,308,Northern Gulf,"12,503,257","11,699,281",331
+QLD,309,Queensland Murray Darling Basin,"9,029,457","8,483,660","1,964"
+QLD,310,Reef Catchments,"706,847","611,391","1,268"
+QLD,311,South East Queensland,"988,949","968,826","2,276"
+QLD,312,South West Queensland,"16,608,709","16,367,054",508
+QLD,313,Southern Gulf,"16,580,765","16,432,765",330
+QLD,314,Terrain NRM,"728,289","674,599","1,850"
+SA,401,Adelaide and Mount Lofty Ranges,"313,183","274,557","1,691"
+SA,402406,Alinytjara Wilurara and South Australian Arid Lands,"36,606,933","35,707,517",143
+SA,403,Eyre Peninsula,"3,869,709","3,361,645","1,085"
+SA,404,Kangaroo Island,"167,523","134,248",202
+SA,405,Northern and Yorke,"3,251,043","3,090,665","2,079"
+SA,407,South Australian Murray Darling Basin,"3,743,890","3,371,335","2,434"
+SA,408,South East,"1,768,172","1,614,806","2,028"
+WA,501,Northern Agricultural,"4,119,565","3,518,668","1,362"
+WA,502,Peel-Harvey,"490,950","453,332",613
+WA,503,Perth,"12,434","6,180",388
+WA,504,Rangelands,"66,173,383","64,400,556",433
+WA,505,South Coast,"3,320,572","2,776,892","1,449"
+WA,506,South West,"1,961,749","1,652,284","2,312"
+WA,507,Wheatbelt,"7,691,794","6,801,924","2,317"
+TAS,601,Cradle Coast,"270,336","233,529",935
+TAS,602,North,"686,790","568,787",934
+TAS,603,South,"523,161","443,546",580
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
