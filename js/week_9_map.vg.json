@@ -1,0 +1,35 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Agricultrual Land Use",
+    "width": 800,
+    "height": 600,
+    "projection": {"type": "equirectangular"},
+    "data": {
+        "url": "https://raw.githubusercontent.com/Sarah-Kaehne/Week9/main/NRMR_2016_AUST.topojson",
+        "format": {"type": "topojson", "feature": "NRMR_2016_AUST"}
+    },
+    "transform": [
+        {
+            "lookup": "NRM_NAME16",
+            "from": {
+                "data": {
+                    "url": "https://raw.githubusercontent.com/Sarah-Kaehne/Week9/main/Land_Management_and_Farming_Simple.csv"
+                },
+                "key": "RegionLabel",
+                "fields": ["Active"]
+            }
+        }
+    ],
+    "mark": {"type": "geoshape"},
+    "encoding": {
+        "color": {
+            "field": "Agricultual Density",
+            "type": "quantitative",
+            "scale": {"type": "log"}
+        },
+        "tooltip": [
+            {"field": "NRM_NAME16", "type": "nominal", "title": "RegionLabel"},
+            {"field": "Active", "type": "quantitative"}
+        ]
+    }
+}
