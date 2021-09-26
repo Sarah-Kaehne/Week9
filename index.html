@@ -19,5 +19,13 @@
     <h1>Week 9 Homework</h1>
     <h3>By Sarah Kaehne</h3>
     <div id = "choropleth_map"></div>
+    
+    <script type="text/javascript">
+
+        var spec2 = "js/week_9_map.vg.json";
+        vegaEmbed('#choropleth_map', spec2).then(function(result) {
+          // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+      </script>
 </body>
 </html>
